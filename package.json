@@ -1,8 +1,8 @@
 {
-  "name": "@adiwajshing/keyed-db",
-  "version": "0.2.4",
+  "name": "@rexxhayanasi/keyed-db",
+  "version": "1.0.0",
   "description": "Lightweight library to store an in-memory DB",
-  "homepage": "https://github.com/adiwajshing/keyed-db",
+  "homepage": "https://github.com/rexxzynxd/keyed-db",
   "main": "lib/KeyedDB.js",
   "types": "lib/KeyedDB.d.ts",
   "keywords": [
@@ -17,7 +17,7 @@
   "author": "Adhiraj Singh",
   "license": "MIT",
   "repository": {
-    "url": "git@github.com:adiwajshing/keyed-db.git"
+    "url": "git@github.com:rexxzynxd/keyed-db.git"
   },
   "files": [
     "lib/*"
